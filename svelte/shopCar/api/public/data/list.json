@@ -1,0 +1,90 @@
+[
+    {
+        "type":"a",
+        "name":"Tsful 旗舰店",
+        "check":false,
+        "arr":[],
+        "items":[
+            {
+                "id":1,
+                "title":"Tsful 韩版简约人造珍珠小胸针女胸花一字插针外套别针扣衬衫扣 V领防走光扣配饰 银色",
+                "price":39.00,
+                "check":false,
+                "type":"a"
+            },
+            {
+                "id":5,
+                "title":"Tsful 韩版简约人造珍珠小胸针女胸花一字插针外套别针扣衬衫扣 V领防走光扣配饰 银色",
+                "price":89.00,
+                "check":false,
+                "type":"a"
+            }
+        ]
+    },
+    {
+        "type":"b",
+        "name":"Hazy beauty旗舰店",
+        "check":false,
+        "arr":[],
+        "items":[
+            {
+                "id":2,
+                "title":"Hazy beauty 可爱花朵珍珠胸针水钻胸花别针扣韩国衬衫小领针时尚女士领扣配饰 哥弟五瓣花",
+                "price":35.00,
+                "check":false,
+                "type":"b"
+            },
+            {
+                "id":6,
+                "title":"Hazy beauty 可爱花朵珍珠胸针水钻胸花别针扣韩国衬衫小领针时尚女士领扣配饰 哥弟五瓣花",
+                "price":32.00,
+                "check":false,
+                "type":"b"
+            }
+        ]
+    },
+    {
+        "type":"c",
+        "name":"伊洛芙旗舰店",
+        "check":false,
+        "arr":[],
+        "items":[
+            {
+                "id":3,
+                "title":"伊洛芙（Yealro’lfu）日韩一字插针胸针女配饰毛衣外套别针开衫防走光珍珠披肩扣领针 1685#珍珠镶钻混搭3件套",
+                "price":15.90,
+                "check":false,
+                "type":"c"
+            },
+            {
+                "id":7,
+                "title":"伊洛芙（Yealro’lfu）日韩一字插针胸针女配饰毛衣外套别针开衫防走光珍珠披肩扣领针 1685#珍珠镶钻混搭3件套",
+                "price":19.90,
+                "check":false,
+                "type":"c"
+            }
+        ]
+    },
+    {
+        "type":"d",
+        "name":"暖色旗舰店",
+        "check":false,
+        "arr":[],
+        "items":[
+            {
+                "id":4,
+                "title":"暖色镶嵌AAA级锆石珍珠胸针时尚气质胸花女领针配饰品披肩丝巾扣 白色",
+                "price":269.00,
+                "check":false,
+                "type":"d"
+            },
+            {
+                "id":8,
+                "title":"暖色镶嵌AAA级锆石珍珠胸针时尚气质胸花女领针配饰品披肩丝巾扣 白色",
+                "price":209.00,
+                "check":false,
+                "type":"d"
+            }
+        ]
+    }  
+]
